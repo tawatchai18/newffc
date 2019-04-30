@@ -16,5 +16,9 @@
     "build": "react-app-rewired build",
     "test": "react-app-rewired test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "10.15.1",
+    "npm": "6.4.1"
   }
 }
