@@ -153,9 +153,6 @@ export class AppForm extends Component {
                   mode="horizontal"
                 >
                   <Menu.Item key="alipay">
-                    <a href="https://ffc.in.th/#What" target="_blank" rel="noopener noreferrer">สวัสดีศรีสะเกษ</a>
-                  </Menu.Item>
-                  <Menu.Item key="alipay">
                     <a href="https://ffc.in.th/#What" target="_blank" rel="noopener noreferrer">ABOUT</a>
                   </Menu.Item>
                   <Menu.Item key="alipay">
