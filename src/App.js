@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import { Icon, Menu, Layout, Button, Tabs, Checkbox, Form, Card, Row, Col } from 'antd';
+import { Menu, Layout, Button, Tabs, Checkbox, Form, Card, Row, Col } from 'antd';
 
 const SubMenu = Menu.SubMenu;
 const MenuItemGroup = Menu.ItemGroup;
